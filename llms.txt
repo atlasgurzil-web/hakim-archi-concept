@@ -1,0 +1,13 @@
+# Hakim Archi Concept — Bureau d'Architecture & Maîtrise d'Œuvre
+> Hakim Archi Concept est un bureau d'études et de suivi de grands projets BTP, habitat collectif et individuel, équipements publics et VRD en Algérie.
+
+## Services & Spécialités
+- [Accueil & Portfolio](https://hakim-archi-concept.vercel.app/): Présentation des réalisations architecturales, études techniques et chantiers suivis.
+- Études Architecturales: Conception bioclimatique, plans d'exécution, dossiers de permis de construire.
+- Suivi de Chantier & Maîtrise d'Œuvre: Gestion des attachements, métrés, situations de travaux et conformité technique.
+- VRD & Aménagements: Réseaux divers, voirie, assainissement et espaces publics.
+
+## Coordonnées
+- Bureau: Hakim Archi Concept
+- Spécialité: Architecture, Urbanisme et Ingénierie BTP
+- Pays: Algérie
